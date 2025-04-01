@@ -22,6 +22,26 @@
     {
 	"entraTenantId": "e3603994-35f4-40fc-95a6-cd352b30c137",
 	"tenantDescription": "Green Britain Group"
-    }
+    },
+    {
+	"entraTenantId": "d2528add-0100-4f27-b2de-8bc457332d3d",
+	"tenantDescription": "Fulham Football Club"
+    },  
+    {
+	"entraTenantId": "b2a90805-dbb4-40e9-86e8-a04e7c6adba6",
+	"tenantDescription": "Linkam"
+    },   
+    {
+	"entraTenantId": "b7a74e58-801a-41be-96fd-20979726c004",
+	"tenantDescription": "Boston Energy"
+    },     
+    {
+	"entraTenantId": "bde8f36c-7e4c-4f3b-b10b-854f574eacdb",
+	"tenantDescription": "?????"
+    },    
+    {
+	"entraTenantId": "5c730ff0-91ce-431f-8c14-91071d712a82",
+	"tenantDescription": "HSL Compliance"
+    },
 	
 ]
