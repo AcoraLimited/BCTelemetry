@@ -43,5 +43,9 @@
 	"entraTenantId": "5c730ff0-91ce-431f-8c14-91071d712a82",
 	"tenantDescription": "HSL Compliance"
     },
+    {
+        "entrTenantId": "b174507a-b0b2-4f02-b71c-2fb7113ab450",
+	"tenantDescription": "AppsDev"
+    }
 	
 ]
