@@ -46,6 +46,43 @@
     {
         "entraTenantId": "b174507a-b0b2-4f02-b71c-2fb7113ab450",
 	"tenantDescription": "AppsDev"
-    }
+    },
+	{
+		"entraTenantId": "4c34f85b-0f9e-4a19-9567-97fe2d68907c",
+		"tenantDescription": "Telford"
+	},
+	{
+		"entraTenantId": "4e5d8962-6677-4e22-888c-7eca3eb87840",
+		"tenantDescription": "Acora"
+	},
+	{
+		"entraTenantId": "429d33ac-f1a7-495f-91e2-074628ea4677",
+		"tenantDescription": "AH Worth"
+	},
+	{
+		"entraTenantId": "184859da-c0c9-46e9-bc94-20eae8598b30",
+		"tenantDescription": "Proboat"
+	},
+	{
+		"entraTenantId": "1f438a26-5a68-45fd-9823-0e0999c378d6",
+		"tenantDescription": "Access Bookings"
+	},
+	{
+		"entraTenantId": "470af810-382d-4c07-bcec-71344b556646",
+		"tenantDescription": "AV Trade"
+	},
+	{
+		"entraTenantId": "6c5164ba-244b-424b-8334-339091110751",
+		"tenantDescription": "Cystic Fibrosis Trust"
+	},
+	{
+		"entraTenantId": "8465a1eb-9543-4378-b9a6-e8dd90108b06",
+		"tenantDescription": "Acora Lab"
+	},
+	{
+		"entraTenantId": "a210c11a-d182-43cc-affb-32055b556507",
+		"tenantDescription": "Student Energy Group"
+	}
+		
 	
 ]
