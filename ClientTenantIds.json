@@ -82,7 +82,25 @@
 	{
 		"entraTenantId": "a210c11a-d182-43cc-affb-32055b556507",
 		"tenantDescription": "Student Energy Group"
+	},
+	{
+		"entraTenantId": "ed221a4a-cc34-4cd1-a26d-f8cb8c1dab47",
+		"tenantDescription": "Bostonair Group"
+	},
+	{
+		"entraTenantId": "043f0dcc-a356-4a59-ad7d-53c0b3ff4fd3",
+		"tenantDescription": "CPOSA"
+	},
+	{
+		"entraTenantId": "82c360e5-54e0-45c7-9e6f-0426d4f59486",
+		"tenantDescription": "Devenish"
+	},
+	{
+		"entraTenantId": "aac4b7c2-7510-466e-910e-9a073f41e401",
+		"tenantDescription": "FDL"
+	},
+	{
+		"entraTenantId": "bec6ca1f-9217-4543-9ddd-3d6fe1633316",
+		"tenantDescription": "Pettinaroli"
 	}
-		
-	
 ]
